@@ -1,0 +1,12 @@
+Log-file example
+--
+0, 199.120.110.21
+1, -
+2, -
+3, [01/jul/1995:00:00:09
+4, -0400]
+5, "get
+6, /shuttle/missions/sts-73/mission-sts-73.html
+7, http/1.0"
+8, 200
+9, 4085

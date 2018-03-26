@@ -1,0 +1,7 @@
+Browsing sequence example
+--
+1,5 1,4 1,10 1,14 1,20
+
+means that
+
+shuttle/images.html --> shuttle/mission-sts-71.html --> shuttle/liftoff.html --> shuttle/tour.html --> shuttle/centers.html
